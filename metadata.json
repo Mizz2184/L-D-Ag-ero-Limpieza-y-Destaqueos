@@ -1,0 +1,6 @@
+{
+  "name": "L&D Agüero - Limpieza de Tanques y Destaqueos en Costa Rica",
+  "description": "Servicio profesional y garantizado de limpieza de tanques sépticos, destaqueo de tuberías, construcción de drenajes y fontanería 24/7 en San José y todo Costa Rica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
